@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-motion-vector-extractor"
+description = "Nodes: that we currently provide the package only for x86-64 linux, such as Ubuntu or Debian, and Python 3.8, 3.9, and 3.10."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/chaojie/ComfyUI-Motion-Vector-Extractor"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Motion-Vector-Extractor"
+Icon = ""
